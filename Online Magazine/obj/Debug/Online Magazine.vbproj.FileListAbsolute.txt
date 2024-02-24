@@ -1,0 +1,176 @@
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\csc.exe
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\System.Collections.Immutable.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\System.Reflection.Metadata.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\vbc.exe
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\VBCSCompiler.exe
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\roslyn\VBCSCompiler.exe.config
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Online Magazine.dll.config
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Online Magazine.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Online Magazine.pdb
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\WebForms_Basic.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Antlr3.Runtime.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\AspNet.ScriptManager.bootstrap.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\AspNet.ScriptManager.jQuery.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\EntityFramework.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\EntityFramework.SqlServer.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Core.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Cookies.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Facebook.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Google.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.OAuth.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Twitter.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.ScriptManager.WebForms.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Web.Infrastructure.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Newtonsoft.Json.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Owin.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\System.Web.Optimization.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\System.Web.Providers.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\WebGrease.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\System.Web.Optimization.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Antlr3.Runtime.pdb
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Newtonsoft.Json.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\EntityFramework.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\EntityFramework.SqlServer.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Core.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\System.Web.Providers.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Facebook.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Cookies.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Google.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Twitter.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.OAuth.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.vbprojResolveAssemblyReference.cache
+F:\aspdonetprojects\Online Magazine\Online Magazine\obj\Debug\Online_Magazine.Resources.resources
+F:\aspdonetprojects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.vbproj.GenerateResource.Cache
+F:\aspdonetprojects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.dll
+F:\aspdonetprojects\Online Magazine\Online Magazine\obj\Debug\WebForms_Basic.xml
+F:\aspdonetprojects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.pdb
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\csc.exe
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\vbc.exe
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\VBCSCompiler.exe
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Online Magazine.dll.config
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Online Magazine.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Online Magazine.pdb
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\WebForms_Basic.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Antlr3.Runtime.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\AspNet.ScriptManager.bootstrap.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\AspNet.ScriptManager.jQuery.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\EntityFramework.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\EntityFramework.SqlServer.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Core.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Cookies.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Facebook.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Google.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.OAuth.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Twitter.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.ScriptManager.WebForms.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Newtonsoft.Json.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Owin.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\System.Web.Optimization.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\System.Web.Providers.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\WebGrease.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\System.Web.Optimization.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Antlr3.Runtime.pdb
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Newtonsoft.Json.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\EntityFramework.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\EntityFramework.SqlServer.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Core.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\System.Web.Providers.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Facebook.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Cookies.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Google.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.Twitter.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\Microsoft.Owin.Security.OAuth.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.vbproj.AssemblyReference.cache
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\Online_Magazine.Resources.resources
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.vbproj.GenerateResource.cache
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.vbproj.CoreCompileInputs.cache
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.vbproj.CopyComplete
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\WebForms_Basic.xml
+D:\dotnetProjects\Online Magazine\Online Magazine\obj\Debug\Online Magazine.pdb
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\csc.exe.config
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\csc.rsp
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\csi.exe
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\csi.exe.config
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\csi.rsp
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.AppContext.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Console.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.IO.Compression.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.IO.FileSystem.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.IO.Pipes.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Security.AccessControl.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Security.Claims.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Security.Principal.Windows.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.ValueTuple.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Xml.XPath.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\vbc.exe.config
+D:\dotnetProjects\Online Magazine\Online Magazine\bin\roslyn\vbc.rsp
